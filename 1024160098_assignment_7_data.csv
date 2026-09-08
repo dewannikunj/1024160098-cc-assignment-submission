@@ -1,0 +1,13 @@
+student_id,sleep_hours,study_hours,stress_level,extra_class,exam_score
+S01,7,4,3,No,62
+S02,6,6,5,Yes,74
+S03,8,3,2,No,58
+S04,5,8,6,Yes,81
+S05,7,5,4,No,68
+S06,4,7,8,Yes,72
+S07,8,2,3,No,54
+S08,6,9,5,Yes,88
+S09,7,4,4,No,64
+S10,5,6,7,Yes,76
+S11,8,5,2,No,70
+S12,6,8,5,Yes,84
